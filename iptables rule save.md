@@ -23,3 +23,5 @@ Step 3. (선택 사항) 제대로 부팅 시 켜지는지 확인
 
 `sudo systemctl enable netfilter-persistent`  
 `sudo systemctl start netfilter-persistent`
+
+
